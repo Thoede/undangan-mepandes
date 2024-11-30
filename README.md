@@ -10,7 +10,7 @@ This is a web-based invitation for the Upacara Mepandes (Balinese ritual ceremon
 - RSVP (via whatsapp link).
 
 ## Installation
-1. Clone this repository ```git clonehttps://github.com/ketutadhipramanasinardja/undangan-mepandes```
+1. Clone this repository ```git clone https://github.com/ketutadhipramanasinardja/undangan-mepandes```
 
 2.  Open the index.html file in your browser
      ```index.html```
